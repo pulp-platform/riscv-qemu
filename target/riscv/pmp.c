@@ -80,7 +80,7 @@ static inline int pmp_is_locked(CPURISCVState *env, size_t i)
         }
     }
 
-    return 0;
+    return  0;
 }
 
 /*
